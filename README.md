@@ -31,6 +31,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [System Automation](#system-automation)
 - [Travel and Transportation](#travel-and-transportation)
 - [Version Control](#version-control)
+- [Web Scraping](#web-scraping)
 - [Workflow Automation](#workflow-automation)
 - [Other Tools and Integrations](#other-tools-and-integrations)
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -747,6 +748,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Gitee](https://github.com/oschina/mcp-gitee) - mcp-gitee is a Model Context Protocol (MCP) server implementation for Gitee. It provides a set of tools that interact with Gitee's API, allowing AI assistants to manage repository, issues, pull requests, etc.
 - [GitLab Merge Request MCP](https://github.com/kopfrechner/gitlab-mr-mcp) - Interact seamlessly with GitLab repositories to manage merge requests and issues. Fetch details, add comments, and streamline your code review process with ease.
 - [GitMCP Ingest](https://github.com/adhikasp/mcp-git-ingest) - A Model Context Protocol (MCP) server that helps read GitHub repository structure and important files.
+
+### Web Scraping
+
+- [Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server) - Search, scrape, crawl, and map websites, and return structured data from page content through Firecrawl's API.
 
 ### Workflow Automation
 
