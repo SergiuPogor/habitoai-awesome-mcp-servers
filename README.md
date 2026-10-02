@@ -482,6 +482,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Backup](https://github.com/hexitex/MCP-Backup-Server) - A Model Context Protocol (MCP) server implementation that provides file backup and restoration capabilities
 - [fast-filesystem-mcp](https://github.com/efforthye/fast-filesystem-mcp) - Advanced filesystem operations with large file handling capabilities and Claude-optimized features. Provides fast file reading/writing, sequential reading for large files, directory operations, file search, and streaming writes with backup & recovery.
+- [MarkItDown MCP](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) - Convert local files, data URIs, and web resources into Markdown through Microsoft's MarkItDown library.
 - [MCP Filesystem Server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 
 ### Finance
