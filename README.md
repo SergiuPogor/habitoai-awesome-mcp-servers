@@ -263,6 +263,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AWS Resources Operations](https://github.com/baryhuang/mcp-server-aws-resources-python) - Queries AWS resources using boto3 via a Python-based Model Context Protocol (MCP) server
 - [Appwrite MCP Server](https://github.com/appwrite/mcp) - Manage Appwrite databases, users, teams, functions, storage, messaging, and sites through Appwrite's MCP server.
 - [Azure CLI MCP](https://github.com/jdubois/azure-cli-mcp) - Talk with Azure using MCP
+- [Azure MCP Server (Microsoft)](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server) - Provides tools across Azure services, including subscriptions, Cosmos DB, Storage, and Azure Monitor.
 - [AzureDevOpsMCP](https://github.com/Tiberriver256/mcp-server-azure-devops) - An MCP server for Azure DevOps
 - [ESXi-MCP Manager](https://github.com/bright8192/esxi-mcp-server) - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
 - [K8m AI Kubernetes Dashboard](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
