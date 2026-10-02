@@ -611,6 +611,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ax](https://github.com/Necmttn/ax) - Local-first telemetry and memory MCP server for AI coding agents, exposing recall, session drill-down, cost analytics, skill and hook usage, dispatches, and workflow evidence
 - [Grafana MCP](https://github.com/grafana/mcp-grafana) - Provides programmatic access to Grafana dashboards, data sources, and alerting features via the Model Context Protocol
 - [Logfire Telemetry Analyzer](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
+- [PostHog MCP](https://github.com/PostHog/posthog/tree/master/services/mcp) - Query analytics and product data, manage feature flags and experiments, and investigate errors through PostHog.
 - [Raygun MCP Server](https://github.com/MindscapeHQ/mcp-server-raygun) - Provides API access to Raygun's crash reporting and real user monitoring features via the Model Context Protocol
 - [MCP System Monitor](https://github.com/seekrays/mcp-monitor) - A system monitoring tool that exposes system metrics via the Model Context Protocol (MCP). This tool allows LLMs to retrieve real-time system information through an MCP-compatible interface.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Local recorder with MCP tools for inspecting agent traces, replaying tool calls, and comparing runs; replay and comparison can make live external calls.
