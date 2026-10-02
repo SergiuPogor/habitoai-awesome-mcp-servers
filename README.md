@@ -12,6 +12,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Communication](#communication)
 - [Customer Data Platforms](#customer-data-platforms)
 - [Data Science Tools](#data-science-tools)
+- [Data Streaming](#data-streaming)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
 - [File Systems](#file-systems)
@@ -326,6 +327,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Data Explorer Assistant](https://github.com/reading-plus-ai/mcp-server-data-exploration) - Generates actionable insights from complex datasets through interactive exploration
 - [Dataset Viewer](https://github.com/privetin/dataset-viewer) - MCP server for interacting with Hugging Face dataset viewer API, providing dataset browsing, filtering, and statistics capabilities
 - [JupyterClaude](https://github.com/jjsantos01/jupyter-notebook-mcp) - A Model Context Protocol (MCP) for Jupyter Notebook
+
+### Data Streaming
+
+- [Confluent MCP Server](https://github.com/confluentinc/mcp-confluent) - Manage Kafka topics and messages, Flink SQL, schemas, and connectors across Confluent Cloud, Confluent Platform, and standalone Apache Kafka.
 
 ### Databases
 
