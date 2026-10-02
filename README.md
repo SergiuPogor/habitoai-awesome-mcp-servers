@@ -1,13 +1,16 @@
 # Awesome MCP Servers [![Awesome](https://camo.githubusercontent.com/8693bde04030b1670d5097703441005eba34240c32d1df1eb82a5f0d6716518e/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome)
 
-A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open standard introduced by Anthropic that enables AI models to connect with external data sources and tools, enhancing their capabilities through standardized interfaces.
+A categorized directory of Model Context Protocol (MCP) servers for connecting AI applications to external tools and data sources. Browse the [official MCP Registry](https://registry.modelcontextprotocol.io/) for published server manifests.
 
 ## Table of Contents
 - [AI Services](#ai-services)
 - [Art and Culture](#art-and-culture)
 - [Browser Automation](#browser-automation)
 - [Cloud Platforms](#cloud-platforms)
+- [Cloud Storage](#cloud-storage)
+- [Command Line](#command-line)
 - [Communication](#communication)
+- [Customer Data Platforms](#customer-data-platforms)
 - [Data Science Tools](#data-science-tools)
 - [Databases](#databases)
 - [Developer Tools](#developer-tools)
@@ -29,6 +32,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Version Control](#version-control)
 - [Workflow Automation](#workflow-automation)
 - [Other Tools and Integrations](#other-tools-and-integrations)
+- [Frequently Asked Questions](#frequently-asked-questions)
 
 <!-- MCP_LIST_START -->
 
@@ -227,6 +231,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Rijksmuseum MCP](https://github.com/r-huijts/rijksmuseum-mcp) - Rijksmuseum MCP integration for artwork exploration and analysis
 - [ScoreLook](https://scorelook.fr/scorelook-mcp) - French AI styling atelier (Capucine): complete sourced outfits, piece hubs, shopping criteria and weather-aware looks. Remote MCP at https://scorelook.fr/mcp (no auth, read-only).
 - [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Local MCP server for rendering animated b-roll overlays for short-form and landscape videos.
+- [ElevenLabs (hosted MCP)](https://elevenlabs.io/docs/agents-platform/operate/hosted-mcp) - Official OAuth-hosted MCP server for speech generation and audio processing. Endpoint: `https://api.elevenlabs.io/v1/mcp`.
 
 ### Browser Automation
 
@@ -261,6 +266,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud) - A MCP server connecting to managed indexes on LlamaCloud
 - [manusa/Kubernetes MCP Server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 - [MCP Kubernetes Go](https://github.com/strowk/mcp-k8s-go) - MCP server connecting to Kubernetes
+- [Google Cloud Run MCP](https://github.com/GoogleCloudPlatform/cloud-run-mcp) - Official Google Cloud MCP server for deploying applications to Cloud Run.
 
 ### Cloud Storage
 
@@ -371,6 +377,8 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [VikingDB MCP Server](https://github.com/KashiwaByte/vikingdb-mcp-server) - a mcp server for vikingdb store and search
 - [Weaviate MCP Server](https://github.com/weaviate/mcp-server-weaviate) - MCP (Model Context Protocol) server for Weaviate
 - [XiYan MCP](https://github.com/XGenerationLab/xiyan_mcp_server) - A Model Context Protocol (MCP) server that enables natural language queries to databases
+- [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - Open-source MCP server for configuring database tools across multiple database engines.
+- [Supabase (official MCP)](https://github.com/supabase/mcp) - Official MCP server for querying Supabase project data and managing project resources.
 
 ### Developer Tools
 
@@ -449,6 +457,10 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
 - [Zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [SpecLock](https://github.com/sgroy10/speclock) - MCP server that checks AI-generated edits and commands against project constraints in files such as AGENTS.md and CLAUDE.md.
+- [Azure DevOps MCP (Microsoft)](https://github.com/microsoft/azure-devops-mcp) - Official MCP server for Azure DevOps, available as a hosted endpoint or local stdio process.
+- [BrowserStack MCP](https://github.com/browserstack/mcp-server) - Official MCP server for BrowserStack test cases, browser sessions, and cloud test automation.
+- [Context7](https://github.com/upstash/context7) - Fetch current library and framework documentation for coding agents through local or hosted MCP.
+- [GitHub MCP Server](https://github.com/github/github-mcp-server) - Official GitHub MCP server for repository, code, issue, pull request, and workflow operations.
 
 ### File Systems
 
@@ -541,6 +553,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [ContextStream](https://github.com/contextstream/mcp-server) - Persistent project memory and semantic code search across connected repositories, documents, and conversations.
 - [Memxus](https://github.com/gpitrella/memxus-remote-mcp) - Remote persistent memory MCP server that carries context across coding agents and can connect GitHub and Notion sources.
 - [Zara Agent OPC](https://github.com/aldok10/zara-agent-opc) - Local MCP server for engineering memory, semantic retrieval, and specialist-agent workflows.
+- [Notion (official hosted MCP)](https://developers.notion.com/docs/mcp) - OAuth-hosted server for semantic workspace and connected-app search, plus Markdown page reading and editing.
 
 ### Location Services
 
@@ -579,6 +592,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [MCP System Monitor](https://github.com/seekrays/mcp-monitor) - A system monitoring tool that exposes system metrics via the Model Context Protocol (MCP). This tool allows LLMs to retrieve real-time system information through an MCP-compatible interface.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Local recorder with MCP tools for inspecting agent traces, replaying tool calls, and comparing runs; replay and comparison can make live external calls.
 - [Resolve MCP](https://github.com/unitedideas/resolve-mcp) - Returns structured recovery playbooks, backoff schedules, and retry strategies for errors across common services.
+- [Sentry (hosted MCP)](https://github.com/getsentry/toolkit) - Sentry's remote MCP service for investigating issues, errors, traces, and performance data in coding workflows. Endpoint: `https://mcp.sentry.dev`.
 
 ### Note Taking
 
@@ -949,48 +963,13 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 ### Frequently Asked Questions
 
 #### What is an MCP server?
-An MCP (Model Context Protocol) server is a component that implements Anthropic's Model Context Protocol, enabling AI models to connect to external data sources and tools. It acts as a standardized interface for AI systems to interact with various services, databases, and APIs.
+An MCP server exposes tools, resources, or prompts over the Model Context Protocol so an AI application can connect to a service or local capability.
 
-#### What is the MCP protocol?
-The Model Context Protocol (MCP) is an open standard introduced by Anthropic in 2024 that defines how AI models can communicate with external tools and data sources. It provides a structured way for AI systems to access and manipulate data, execute commands, and interact with various services.
+#### How do I connect to a server?
+Follow the server's setup guide. Local servers use a command and arguments; hosted servers use a remote URL and may require authorization. Client setup and transport support vary.
 
-#### What is MCP used for?
-MCP has different uses depending on the context:
-- In AI: Connects AI models to external resources like databases, APIs, and tools to enhance their capabilities
-- In Gaming: MCP (Minecraft Coder Pack) is used for decompiling and modding Minecraft Java Edition
-
-#### Does OpenAI support MCP?
-While OpenAI doesn't officially support MCP, there are community-developed tools and bridges that enable integration between OpenAI's models and MCP-compatible systems.
-
-#### What is MCP in Kubernetes?
-In the context of Kubernetes, MCP servers can be deployed to enable AI models to interact with Kubernetes clusters, managing containers and resources through natural language interfaces.
-
-#### Is Claude AI free?
-Claude AI offers both free and paid plans:
-- Free plan: Limited usage (e.g., 20 searches per day)
-- Paid plans: Start at $20/month with increased limits and features
-- Available on web, iOS, and Android platforms
-
-#### What are MCP tools?
-MCP tools are components that implement specific functionalities through the Model Context Protocol, such as:
-- File system operations
-- Database interactions
-- API integrations
-- System automation
-- Development tools
-- Search capabilities
-
-#### What is the difference between MCP in AI and gaming?
-- AI Context: MCP refers to the Model Context Protocol, enabling AI models to interact with external systems
-- Gaming Context: MCP refers to the Minecraft Coder Pack, used for decompiling and modding Minecraft Java Edition
-
-#### What is a Model Context Protocol server?
-A Model Context Protocol server is an implementation that:
-- Provides standardized interfaces for AI-tool interaction
-- Handles authentication and security
-- Manages data flow between AI models and external services
-- Implements specific functionalities (e.g., file operations, API calls)
-- Ensures consistent communication protocols
+#### Where can I find published server manifests?
+The [official MCP Registry](https://registry.modelcontextprotocol.io/) lists published server metadata.
 
 <!-- MCP_LIST_END -->
 
