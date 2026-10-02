@@ -585,6 +585,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### MCP Infrastructure
 
+- [AISIX MCP Gateway](https://github.com/api7/aisix) - Expose registered MCP servers through one endpoint, with per-tool access controls and caller authentication.
 - [1MCP](https://github.com/1mcp-app/agent) - Aggregate configured MCP servers behind one runtime, with client-specific filtering and a CLI for progressive tool discovery and execution.
 
 ### Monitoring
