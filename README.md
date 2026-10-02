@@ -536,6 +536,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Healthcare
 
 - [CareClinic Health Tracker](https://github.com/tandemloop/careclinic_mcp) - Remote OAuth MCP server for tracking symptoms, mood, medications, and wellness check-ins.
+- [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
 
 ### Knowledge and Memory
 
