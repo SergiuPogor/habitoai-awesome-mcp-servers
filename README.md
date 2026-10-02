@@ -284,6 +284,7 @@ A curated list of Model Context Protocol (MCP) servers and tools. MCP is an open
 - [Google Calendar](https://github.com/nspady/google-calendar-mcp) - MCP integration for Google Calendar to manage events.
 - [MCP WeComBot Server](https://github.com/gotoolkits/mcp-wecombot-server.git) - Sends various message types (text, markdown, image, news, template cards, files) to WeChat Work group robots
 - [Pushover](https://github.com/ashiknesin/pushover-mcp) - A MCP implementation for sending notifications via Pushover
+- [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, and offers a notary, small-model inference and public data on a free daily allowance.
 - [Telegram](https://github.com/chigwell/telegram-mcp) - A Python-based server enabling interaction with Telegram chats via the Model Context Protocol
 - [WhatsApp-MCP](https://github.com/lharries/whatsapp-mcp) - Searches WhatsApp messages and contacts, and sends messages via an LLM-integrated Model Context Protocol server
 - [wong2](https://github.com/wong2) - Facilitates communication and sharing via email and Telegram
