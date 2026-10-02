@@ -369,6 +369,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OpenLink MCP SQLAlchemy Server](https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server) - A simple MCP ODBC server using FastAPI, ODBC and SQLAlchemy.
 - [Redis](https://github.com/GongRzhe/REDIS-MCP-Server) - A Redis MCP server (pushed to https://github.com/modelcontextprotocol/servers/tree/main/src/redis) implementation for interacting with Redis databases. This server enables LLMs to interact with Redis key-value stores through a set of standardized tools.
 - [Redis](https://github.com/prajwalnayak7/mcp-server-redis) - MCP server to interact with Redis Server, AWS Memory DB, etc for caching or other use-cases where in-memory and key-value based storage is appropriate
+- [Redis MCP Server](https://github.com/redis/mcp-redis) - Official Redis server for managing and searching Redis data, including strings, hashes, JSON, streams, pub/sub, and vector indexes.
 - [Snowflake MCP Server](https://github.com/isaacwasserman/mcp-snowflake-server) - An MCP server enabling SQL queries, data insight aggregation, and schema interaction with Snowflake databases
 - [Source](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts) - The open-source reactive database for app developers
 - [SQLGlot MCP Analyzer](https://github.com/j4c0bs/mcp-server-sql-analyzer) - MCP server for SQL static analysis.
