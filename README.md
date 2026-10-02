@@ -10,6 +10,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Cloud Storage](#cloud-storage)
 - [Command Line](#command-line)
 - [Communication](#communication)
+- [Container Registries](#container-registries)
 - [Customer Data Platforms](#customer-data-platforms)
 - [Data Science Tools](#data-science-tools)
 - [Data Streaming](#data-streaming)
@@ -315,6 +316,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Bavimail](https://github.com/Bavlio/bavimail-mcp-server) - Stdio MCP server for sending, receiving, and managing email for AI agents.
 - [MeetStream](https://github.com/meetstream-ai/meetstream-mcp) - MCP server for meeting bots, transcripts, summaries, participant audio, chat, and calendar scheduling across Zoom, Google Meet, and Teams.
 - [SLM Mesh](https://github.com/qualixar/slm-mesh) - Peer-to-peer MCP tools for AI coding agents to discover peers, message, share state, and coordinate file locks.
+
+### Container Registries
+
+- [Docker Hub MCP Server](https://github.com/docker/hub-mcp) - Search Docker Hub repositories and images, with token-authenticated tools for repository management.
 
 ### Customer Data Platforms
 
