@@ -237,6 +237,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [SandBase CLI](https://github.com/sandbaseai/cli) - Local MCP bridge for discovering, inspecting, and running models and APIs from SandBase.
 - [Hugging Face MCP Server](https://github.com/huggingface/hf-mcp-server) - Provides MCP access to Hugging Face Hub models, datasets, spaces, and related APIs.
 - [Pipecat MCP Server](https://github.com/pipecat-ai/pipecat-mcp-server) - Provides voice-agent and screen-capture tools for Pipecat pipelines.
+- [Amazon Bedrock AgentCore MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-bedrock-agentcore-mcp-server) - Manages AgentCore runtimes, memories, identity providers, gateways, and policies.
+- [Amazon Translate MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-translate-mcp-server) - Translates text and documents with Amazon Translate and supports batch and custom terminology workflows.
+- [DeepL MCP Server](https://github.com/DeepL/deepl-mcp-server) - Translates text and documents, rephrases content, and looks up glossary and style rules through DeepL.
 
 ### Art and Culture
 
@@ -307,6 +310,11 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Render MCP Server](https://github.com/render-oss/render-mcp-server) - Provides tools to inspect Render services, deployments, logs, and databases.
 - [Alibaba Cloud Ops MCP Server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) - Queries and manages Alibaba Cloud resources through CloudOps APIs.
 - [Portainer MCP Server](https://github.com/portainer/portainer-mcp) - Provides tools for managing Portainer environments and their container and Kubernetes resources.
+- [Amazon ECS MCP Server](https://github.com/awslabs/mcp/tree/main/src/ecs-mcp-server) - Helps containerize, deploy, troubleshoot, and manage applications on Amazon ECS.
+- [Amazon EKS MCP Server](https://github.com/awslabs/mcp/tree/main/src/eks-mcp-server) - Provides tools for EKS cluster and Kubernetes resource management, visibility, and troubleshooting.
+- [AWS Infrastructure as Code MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-iac-mcp-server) - Validates CloudFormation templates, troubleshoots deployments, and retrieves AWS CDK and CloudFormation guidance.
+- [AWS Lambda Tool MCP Server](https://github.com/awslabs/mcp/tree/main/src/lambda-tool-mcp-server) - Exposes selected AWS Lambda functions as MCP tools for invoking private services and resources.
+- [AWS Support MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-support-mcp-server) - Creates and manages AWS support cases, retrieves case history, and handles attachments.
 
 ### Cloud Storage
 
@@ -315,6 +323,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Google Cloud Storage MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/storage-mcp) - Manages Google Cloud Storage buckets and objects through MCP.
 - [Nextcloud MCP Server](https://github.com/cbcoutinho/nextcloud-mcp-server) - Connects MCP clients to Nextcloud apps including files, calendar, contacts, mail, notes, and Talk.
 - [Synology MCP Server](https://github.com/atom2ueki/mcp-server-synology) - Manages Synology NAS files, downloads, and system information through MCP.
+- [AWS S3 Tables MCP Server](https://github.com/awslabs/mcp/tree/main/src/s3-tables-mcp-server) - Works with S3 table buckets, namespaces, and tables, including Athena-backed queries; write access is opt-in.
 
 ### Command Line
 
@@ -355,6 +364,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [SLM Mesh](https://github.com/qualixar/slm-mesh) - Peer-to-peer MCP tools for AI coding agents to discover peers, message, share state, and coordinate file locks.
 - [LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server) - Connects agents to LINE Official Accounts for sending and managing messages.
 - [Microsoft Teams MCP Server](https://github.com/InditexTech/mcp-teams-server) - Reads channel messages and creates or replies to Teams threads with mentions.
+- [Resend MCP Server](https://github.com/resend/resend-mcp) - Sends and manages email, contacts, broadcasts, domains, and other Resend resources.
 
 ### Container Registries
 
@@ -376,10 +386,13 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Jupyter MCP Server](https://github.com/datalayer/jupyter-mcp-server) - Connects AI clients to Jupyter notebooks for notebook and code execution workflows.
 - [Google Colab MCP](https://github.com/googlecolab/colab-mcp) - Bridges a local AI client to a Google Colab session running in a browser.
 - [dbt MCP Server](https://github.com/dbt-labs/dbt-mcp) - Exposes dbt project and analytics workflows to MCP clients.
+- [DataHub MCP Server](https://github.com/acryldata/mcp-server-datahub) - Searches data assets, explores lineage and metadata, and supports SQL query generation using DataHub context.
+- [Tableau MCP Server](https://github.com/tableau/tableau-mcp) - Provides tools, resources, and prompts for exploring Tableau Cloud data and content.
 
 ### Data Streaming
 
 - [Confluent MCP Server](https://github.com/confluentinc/mcp-confluent) - Manage Kafka topics and messages, Flink SQL, schemas, and connectors across Confluent Cloud, Confluent Platform, and standalone Apache Kafka.
+- [Amazon SNS and SQS MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-sns-sqs-mcp-server) - Creates and manages Amazon SNS topics and SQS queues through configurable permissions.
 
 ### Databases
 
@@ -442,6 +455,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Apache Doris MCP Server](https://github.com/apache/doris-mcp-server) - Connects MCP clients to Apache Doris for SQL queries and schema discovery.
 - [OpenSearch MCP Server](https://github.com/opensearch-project/opensearch-mcp-server-py) - Provides MCP tools for querying and working with OpenSearch clusters.
 - [MariaDB MCP Server](https://github.com/MariaDB/mcp) - Queries MariaDB databases and manages optional vector stores through MCP tools.
+- [Amazon DynamoDB MCP Server](https://github.com/awslabs/mcp/tree/main/src/dynamodb-mcp-server) - Provides DynamoDB data-model design guidance, validation, cost analysis, and code-generation tools.
+- [Amazon Neptune MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-neptune-mcp-server) - Reads graph schema and status and runs openCypher or Gremlin queries against Amazon Neptune.
 
 ### Developer Tools
 
@@ -536,6 +551,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Salesforce DX MCP Server](https://github.com/salesforcecli/mcp) - Exposes Salesforce org, metadata, code analysis, and DevOps tools to MCP clients.
 - [Tidewave for Phoenix](https://github.com/tidewave-ai/tidewave_phoenix) - Adds MCP tools for inspecting and working with a running Phoenix application.
 - [Webflow MCP Server](https://github.com/webflow/mcp-server) - Connects AI assistants to Webflow sites and the Designer through Webflow's APIs.
+- [Buildkite MCP Server](https://github.com/buildkite/buildkite-mcp-server) - Provides access to Buildkite pipelines, builds, jobs, and test data.
+- [Chrome DevTools MCP Server](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Controls a live Chrome browser for automation, debugging, network inspection, screenshots, and performance analysis.
+- [MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - Supports agent workflows for building and testing iOS and macOS projects.
 
 ### Diagramming and Visualization
 
@@ -635,6 +653,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [CareClinic Health Tracker](https://github.com/tandemloop/careclinic_mcp) - Remote OAuth MCP server for tracking symptoms, mood, medications, and wellness check-ins.
 - [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
+- [AWS HealthOmics MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-healthomics-mcp-server) - Supports genomic workflow management, execution, and analysis through AWS HealthOmics.
 
 ### Home Automation
 
@@ -672,6 +691,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [WhereAmI Location Server](https://github.com/kukapay/whereami-mcp) - A lightweight mcp server that tells you exactly where you are.
 - [Baidu Maps MCP Server](https://github.com/baidu-maps/mcp) - Provides geocoding, place search, route planning, weather, and traffic tools for Baidu Maps.
 - [Mapbox MCP Server](https://github.com/mapbox/mcp-server) - Provides place search, map rendering, and offline geospatial calculation tools.
+- [Amazon Location Service MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-location-mcp-server) - Searches places, geocodes locations, and retrieves place details through Amazon Location Service.
 
 ### Marketing
 
@@ -715,11 +735,13 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Sentry (hosted MCP)](https://github.com/getsentry/toolkit) - Sentry's remote MCP service for investigating issues, errors, traces, and performance data in coding workflows. Endpoint: `https://mcp.sentry.dev`.
 - [Google Cloud Observability MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/observability-mcp) - Searches Google Cloud logs, metrics, traces, and error reports.
 - [SigNoz MCP Server](https://github.com/SigNoz/signoz-mcp-server) - Queries and investigates traces, logs, and metrics from SigNoz.
+- [AWS CloudWatch MCP Server](https://github.com/awslabs/mcp/tree/main/src/cloudwatch-mcp-server) - Queries CloudWatch logs, metrics, and alarms for monitoring and troubleshooting.
 
 ### Networking
 
 - [Junos MCP Server](https://github.com/Juniper/junos-mcp-server) - Connects MCP clients to Juniper devices for Junos configuration and operational commands.
 - [NetBox MCP Server](https://github.com/netboxlabs/netbox-mcp-server) - Retrieves network inventory and related data from NetBox through a read-only MCP server.
+- [AWS Core Network MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-network-mcp-server) - Analyzes and troubleshoots AWS VPC, Transit Gateway, Cloud WAN, Network Firewall, and VPN resources.
 
 
 ### Note Taking
@@ -806,6 +828,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Brave Search MCP Server](https://github.com/brave/brave-search-mcp-server) - Provides web, local, place, image, video, news, and AI summarization search through Brave Search.
 - [Jina AI MCP](https://github.com/jina-ai/MCP) - Connects MCP clients to Jina's web search, reader, and embedding APIs.
+- [Amazon Kendra Index MCP Server](https://github.com/awslabs/mcp/tree/main/src/amazon-kendra-index-mcp-server) - Connects MCP clients to Amazon Kendra indices for search and retrieval-augmented generation.
+- [AWS Documentation MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Searches, reads, and recommends content from AWS documentation.
 
 ### Security
 
@@ -841,6 +865,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Auth0 MCP Server](https://github.com/auth0/auth0-mcp-server) - Manages Auth0 tenants, users, applications, and related identity resources.
 - [Caido MCP Server](https://github.com/c0tton-fluff/caido-mcp-server) - Inspects and analyzes Caido HTTP traffic and security findings through MCP.
 - [radare2 MCP Server](https://github.com/radareorg/radare2-mcp) - Exposes radare2 analysis tools for inspecting binaries and reverse engineering.
+- [AWS CloudTrail MCP Server](https://github.com/awslabs/mcp/tree/main/src/cloudtrail-mcp-server) - Searches AWS account activity and CloudTrail Lake events for auditing and troubleshooting.
+- [Hex-Rays IDA MCP Server](https://github.com/HexRaysSA/ida-mcp) - Exposes IDA databases and reverse-engineering tools through the IDA Pro plugin.
+- [Infisical MCP Server](https://github.com/Infisical/infisical-mcp-server) - Accesses Infisical projects, environments, and secrets, with optional tool allowlisting and secret-value masking.
 
 ### Social Media
 
@@ -944,6 +971,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AstraNL](https://github.com/ASTRANL/astranl-mcp) - MCP server for AI-agent coordination, EU company and VAT checks, and matching requests to service providers.
 - [Jenkins MCP Server Plugin](https://github.com/jenkinsci/mcp-server-plugin) - Exposes Jenkins operations as MCP tools and resources.
 - [Alibaba Cloud DevOps MCP Server](https://github.com/aliyun/alibabacloud-devops-mcp-server) - Connects MCP clients to Alibaba Cloud Yunxiao DevOps projects and workflows.
+- [AWS Step Functions Tool MCP Server](https://github.com/awslabs/mcp/tree/main/src/stepfunctions-tool-mcp-server) - Exposes selected Step Functions state machines as MCP tools for invoking existing workflows.
+- [Harness MCP Server](https://github.com/harness/mcp-server) - Exposes Harness CI/CD and platform resources through a compact set of tools.
 
 ### Other Tools and Integrations
 
