@@ -21,6 +21,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Knowledge and Memory](#knowledge-and-memory)
 - [Location Services](#location-services)
 - [Marketing](#marketing)
+- [MCP Infrastructure](#mcp-infrastructure)
 - [Monitoring](#monitoring)
 - [Note Taking](#note-taking)
 - [Research and Data](#research-and-data)
@@ -579,6 +580,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OrbiAds](https://github.com/OrbiAds/Orbiads-GAM-MCP) - Hosted OAuth MCP server for managing Google Ad Manager networks.
 - [Robot Speed](https://github.com/robot-speed/mcp) - Hosted MCP server for SEO audits, keyword research, site content management, and client reports.
 - [SiteAudit](https://github.com/vdalhambra/siteaudit-mcp) - MCP server for website SEO, performance, security, and broken-link audits.
+
+### MCP Infrastructure
+
+- [1MCP](https://github.com/1mcp-app/agent) - Aggregate configured MCP servers behind one runtime, with client-specific filtering and a CLI for progressive tool discovery and execution.
 
 ### Monitoring
 
