@@ -260,6 +260,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AWS Athena](https://github.com/lishenxydlgzs/aws-athena-mcp) - MCP server to run AWS Athena queries
 - [AWS Cost Explorer](https://github.com/aarora79/aws-cost-explorer-mcp-server) - MCP server for understanding AWS spend
 - [AWS Resources Operations](https://github.com/baryhuang/mcp-server-aws-resources-python) - Queries AWS resources using boto3 via a Python-based Model Context Protocol (MCP) server
+- [Appwrite MCP Server](https://github.com/appwrite/mcp) - Manage Appwrite databases, users, teams, functions, storage, messaging, and sites through Appwrite's MCP server.
 - [Azure CLI MCP](https://github.com/jdubois/azure-cli-mcp) - Talk with Azure using MCP
 - [AzureDevOpsMCP](https://github.com/Tiberriver256/mcp-server-azure-devops) - An MCP server for Azure DevOps
 - [ESXi-MCP Manager](https://github.com/bright8192/esxi-mcp-server) - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
