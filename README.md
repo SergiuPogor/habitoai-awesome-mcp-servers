@@ -461,6 +461,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Stripe](https://github.com/stripe/agent-toolkit/tree/main) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [Supabase MCP Server](https://github.com/joshuarileydev/supabase) - Programmatically manages Supabase projects and organizations via the Model Context Protocol
 - [Typescript MCP SDK](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
+- [Next.js DevTools MCP](https://github.com/vercel/next-devtools-mcp) - Connect coding agents to running Next.js 16+ dev servers to inspect runtime errors, routes, and logs through their built-in MCP tools.
 - [VSCode Devtools](https://github.com/biegehydra/BifrostMCP) - VSCode Extension with an MCP server that exposes semantic tools like Find Usages and Rename to LLMs
 - [Xcode Claude Bridge](https://github.com/r-huijts/xcode-mcp-server) - MCP Server implementation for Xcode integration
 - [xcodebuild](https://github.com/ShenghaiWang/xcodebuild) - MCP tool for building Xcode iOS workspace/project and feeding back error to LLMs.
