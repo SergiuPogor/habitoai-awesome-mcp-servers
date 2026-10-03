@@ -474,6 +474,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Databases
 
+- [Apache Druid MCP Server](https://github.com/iunera/druid-mcp-server) - Queries Druid SQL and lists datasource schemas, with additional tools for ingestion, segments, and cluster management.
 - [Atlan MCP](https://github.com/atlanhq/agent-toolkit/tree/main/modelcontextprotocol) - Searches cataloged data assets, traces lineage, and manages metadata, glossaries, domains, and data-quality rules through Atlan.
 - [Chroma](https://github.com/chroma-core/chroma-mcp) - A Model Context Protocol (MCP) server implementation that provides database capabilities for Chroma
 - [ClickHouse MCP](https://github.com/ClickHouse/mcp-clickhouse) - Executes ClickHouse SQL queries and manages databases and tables via a server interface
@@ -565,6 +566,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [JetBrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Checks JVM dependency versions, analyzes POM files, audits licenses and known vulnerabilities, and prepares dependency-upgrade recommendations.
+- [MCP Files](https://github.com/flesler/mcp-files) - Searches source symbols and makes targeted code edits with symbol imports, text insertion, and search-and-replace tools.
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - Searches technical documentation and retrieves linked pages as Markdown through the Ref API; requires a Ref API key.
