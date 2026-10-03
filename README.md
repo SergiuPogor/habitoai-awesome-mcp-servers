@@ -4,6 +4,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ## Table of Contents
 - [Accessibility](#accessibility)
+- [Aerospace and Space](#aerospace-and-space)
 - [AI Services](#ai-services)
 - [Art and Culture](#art-and-culture)
 - [Bioinformatics](#bioinformatics)
@@ -32,6 +33,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Home Automation](#home-automation)
 - [Knowledge and Memory](#knowledge-and-memory)
 - [Language and Translation](#language-and-translation)
+- [Legal](#legal)
 - [Location Services](#location-services)
 - [Marketing](#marketing)
 - [Media and Audio](#media-and-audio)
@@ -61,6 +63,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Accessibility
 - [a11y-toolkit](https://github.com/kinti/a11y-toolkit) - Audits web accessibility, checks color contrast and keyboard behavior, and generates WCAG evidence reports.
+
+### Aerospace and Space
+- [Orbit Sentinel MCP](https://github.com/viventine-space/orbit-sentinel-mcp) - Queries space regulatory filings and licensing data from FCC, ITU, UNOOSA, and FAA sources through the Orbit Sentinel API.
 
 ### AI Services
 
@@ -270,8 +275,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Bioinformatics
 - [1000 Genomes MCP](https://github.com/dnaerys/onekgpd-mcp) - Queries 1000 Genomes variants, samples, and genotypes with coordinate, annotation, and population filters.
+- [AlphaFold Sovereign MCP](https://github.com/smaniches/alphafold-sovereign-mcp) - Retrieves predicted protein structures and analyzes structural confidence, topology, and protein comparisons.
 - [BioMCP](https://github.com/genomoncology/biomcp) - Searches biomedical literature, genes, variants, drugs, and clinical trials through a shared CLI and MCP interface.
 - [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - Analyzes spatial transcriptomics datasets with preprocessing, cell annotation, deconvolution, spatial statistics, and visualization tools.
+- [ENCODE Toolkit](https://github.com/ammawla/encode-toolkit) - Searches ENCODE experiments, retrieves metadata and files, and downloads or tracks genomics datasets.
 - [UniProt MCP](https://github.com/smaniches/uniprot-mcp) - Queries protein entries, sequences, variants, and disease associations, with response provenance and offline replay support.
 
 ### Browser Automation
@@ -641,6 +648,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AntV Chart MCP Server](https://github.com/antvis/mcp-server-chart) - Generates charts and visualizations with AntV chart libraries.
 - [Charted](https://github.com/marzukia/charted) - Creates charts from structured data or CSV as SVG, HTML, or PNG through MCP tools.
 - [Draw.io MCP Server](https://github.com/lgazo/drawio-mcp-server) - Creates and edits diagrams in Draw.io through an MCP server.
+- [Excalidraw Architect MCP](https://github.com/BV-Venky/excalidraw-architect-mcp) - Creates and modifies Excalidraw diagrams, converts Mermaid syntax, and exports diagrams as SVG or PNG.
+- [Mermaid Project MCP](https://github.com/GittyBurstein/mermaid-mcp-server) - Generates Mermaid diagrams from local projects or GitHub repositories and renders them through Kroki.
 - [Microcharts MCP](https://github.com/ganapativs/microcharts/tree/main/packages/mcp) - Finds, configures, and renders accessible React charts as SVG through MCP tools.
 - [Markmap MCP Server](https://github.com/jinzcdev/markmap-mcp-server) - Converts Markdown into interactive mind maps and exportable visualizations.
 
@@ -657,11 +666,15 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Brightspace MCP Server](https://github.com/RohanMuppa/brightspace-mcp-server) - Retrieves Brightspace courses, deadlines, announcements, assignments, and grades.
 - [Canvas LMS MCP](https://github.com/admin978/canvas-mcp) - Reads Canvas courses, assignments, grades, announcements, modules, planner items, and course pages using a personal access token.
+- [Connectry Architect Cert MCP](https://github.com/Connectry-io/connectrylab-architect-cert-mcp) - Provides software architecture study questions, practice exams, concept lessons, and persistent learning-progress tracking.
 - [Moodle MCP](https://github.com/csmediapro/moodle-mcp-server) - Reads Moodle courses, enrollments, assignments, categories, and site metadata through Moodle Web Services.
+- [Pronunciation MCP](https://github.com/JuhongPark/mcp-server-pronunciation) - Records local voice input and provides English pronunciation, fluency, and sentence-practice feedback using locally run speech models.
 - [SCORM MCP Server](https://github.com/giacomomaria81/scorm-mcp-server) - Builds SCORM 1.2 or 2004 packages from HTML course content and exports.
 
 ### Embedded Systems
+- [Embedded Debugger MCP](https://github.com/adancurusul/embedded-debugger-mcp) - Debugs and programs embedded targets through probe-rs or OpenOCD, including memory access, breakpoints, fault diagnosis, and flash operations.
 - [OPC UA MCP](https://github.com/kukapay/opcua-mcp) - Browses OPC UA nodes and reads or writes individual and multiple node values in connected industrial systems.
+- [PlatformIO MCP](https://github.com/powerdragonfire/platformio.mcp) - Builds and flashes PlatformIO projects, monitors serial output, runs firmware tests, and decodes embedded crash backtraces.
 - [Serial MCP](https://github.com/adancurusul/serial-mcp-server) - Communicates with serial and UART devices and plans or runs repeatable command workflows with a JSON macro language.
 
 ### Environment and Nature
@@ -760,6 +773,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Apple Health MCP](https://github.com/the-momentum/apple-health-mcp-server) - Imports and queries exported Apple Health records using DuckDB, ClickHouse, or Elasticsearch.
 - [CareClinic Health Tracker](https://github.com/tandemloop/careclinic_mcp) - Remote OAuth MCP server for tracking symptoms, mood, medications, and wellness check-ins.
 - [FHIR MCP](https://github.com/the-momentum/fhir-mcp-server) - Queries FHIR healthcare resources, including patients, conditions, encounters, and observations, through a configured FHIR server.
+- [Fulcra Context MCP](https://github.com/fulcradynamics/fulcra-context-mcp) - Queries Fulcra workouts, health metrics, and contextual time-series data and manages user annotations.
 - [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
 - [AWS HealthOmics MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-healthomics-mcp-server) - Supports genomic workflow management, execution, and analysis through AWS HealthOmics.
 
@@ -778,8 +792,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AC Infinity MCP](https://github.com/ober37/ac-infinity-mcp) - Monitors and controls AC Infinity climate controllers through MCP.
 - [ESP RainMaker MCP](https://github.com/espressif/esp-rainmaker-mcp) - Connects MCP clients to ESP RainMaker devices through Espressif's CLI and cloud API.
 - [KNX Design MCP](https://github.com/NickoScope/nickol-knx-mcp) - Assists with KNX/ETS6 design-time tasks without connecting to the live bus.
+- [Kodi MCP](https://github.com/laszlopere/mcp-kodi) - Controls Kodi playback, volume, playlists, and media-library queries through JSON-RPC.
 - [Plugwise MCP](https://github.com/Tommertom/plugwise-mcp) - Discovers and controls Plugwise smart-home devices.
 - [Smartest TV](https://github.com/Hybirdss/smartest-tv) - Controls supported smart TVs, streaming apps, casting, and multi-room audio.
+- [Zigbee2MQTT MCP](https://github.com/alexpfau/zigbee2mqtt-mcp) - Inspects Zigbee devices, bridge health, and mesh topology, with configurable write modes for pairing, binding, and firmware updates.
 
 ### Knowledge and Memory
 
@@ -808,9 +824,15 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Language and Translation
 
+- [Lara Translate MCP](https://github.com/translated/lara-mcp) - Translates text, detects languages, and manages translation memories and glossaries through the Lara API.
 - [Live Translate MCP](https://github.com/waxberry-dev/live-translate-mcp) - Translates English and Mandarin speech in real time using Whisper, Claude, and Piper.
 - [Pronounce MCP](https://github.com/anzy-renlab-ai/pronounce) - Returns sourced pronunciation guidance and audio for developer terminology.
 - [xCOMET MCP Server](https://github.com/shuji-bonji/xcomet-mcp-server) - Evaluates translation quality with explainable xCOMET scores.
+
+### Legal
+- [Australian Law MCP](https://github.com/ChangkeunJ/australian-law-mcp) - Searches Australian federal legislation, retrieves current or historical provisions, checks citations, and compares legislative versions.
+- [CanLII MCP](https://github.com/Vaquill-AI/canlii-mcp) - Browses Canadian court decisions and legislation metadata and retrieves citation relationships; requires a CanLII API key.
+- [OpenAgreements Checklist MCP](https://github.com/open-agreements/open-agreements/tree/main/packages/checklist-mcp) - Creates and updates deal checklists, validates proposed changes, and imports or renders DOCX checklist documents.
 
 ### Location Services
 
@@ -1084,9 +1106,13 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Sports and Fitness
 
+- [Balldontlie MCP](https://github.com/mikechao/balldontlie-mcp) - Retrieves NBA, NFL, and MLB teams, players, games, and schedules through the Balldontlie API.
 - [Cadence](https://github.com/rajanshxrma/cadence) - Combines local WHOOP and Apple Health data with coding activity for personal trend analysis.
 - [Garmin Local MCP](https://github.com/anup-shesh/garmin-local-mcp) - Syncs Garmin data to a local warehouse for analysis, including when the API is unavailable.
 - [MLB API MCP Server](https://github.com/guillochon/mlb-api-mcp) - Provides access to Major League Baseball statistics and game data.
+- [MusclesWorked MCP](https://github.com/csjoblom/musclesworked-mcp) - Looks up muscles used by exercises, finds alternative movements, and analyzes workout muscle coverage through the MusclesWorked API.
+- [Oura MCP](https://github.com/Rajskij/oura-mcp) - Provides read-only sleep, readiness, activity, stress, workout, and vital-sign data through Oura OAuth; requires an active Oura subscription.
+- [Strava MCP](https://github.com/r-huijts/strava-mcp) - Reads authenticated Strava activities, routes, segments, and athlete data, with route export tools.
 
 ### System Automation
 
