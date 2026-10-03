@@ -567,6 +567,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Checks JVM dependency versions, analyzes POM files, audits licenses and known vulnerabilities, and prepares dependency-upgrade recommendations.
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
+- [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - Searches technical documentation and retrieves linked pages as Markdown through the Ref API; requires a Ref API key.
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
 - [Stripe](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - Simplifies multi-chain protocol (MCP) client development with TypeScript and Python SDKs
@@ -720,6 +721,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Eulerpool](https://eulerpool.com/financial-data-api/mcp) - Hosted MCP server for institutional-grade financial data: stocks, ETFs, funds, crypto, forex, bonds, and macro (FRED/ECB/IMF/World Bank) via 157+ tools covering fundamentals, analyst estimates, ownership, insider & US-congress trades, and screeners. Free tier.
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
 - [Frankfurter MCP](https://github.com/anirbanbasu/frankfurtermcp) - Retrieves supported currencies and current or historical exchange rates and performs currency conversions through the Frankfurter API.
+- [Norman MCP](https://github.com/norman-finance/norman-mcp-server) - Manages Norman invoices, clients, transactions, and accounting records through its API, with OAuth authentication for hosted access.
 - [Octagon](https://github.com/OctagonAI/octagon-mcp-server) - A free Model Context Protocol (MCP) server that integrates with Octagon API for investment research.
 - [AlphaVantage](https://github.com/calvernaz/alphavantage) - A MCP server for the stock market data API, Alphavantage API.
 - [Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers) - A collection of crypto MCP servers.
@@ -939,6 +941,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Logfire Telemetry Analyzer](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
 - [openITCOCKPIT MCP](https://github.com/openITCOCKPIT/openITCOCKPIT-MCP-Server) - Investigates monitoring problems, service health, and recent changes, with optional tools for configuration and acknowledgements.
 - [PostHog MCP](https://github.com/PostHog/posthog/tree/master/services/mcp) - Query analytics and product data, manage feature flags and experiments, and investigate errors through PostHog.
+- [Prometheus Alertmanager MCP](https://github.com/ntk148v/alertmanager-mcp-server) - Queries Alertmanager status, alerts, receivers, and alert groups, and creates, updates, or deletes alert silences.
 - [Raygun MCP Server](https://github.com/MindscapeHQ/mcp-server-raygun) - Provides API access to Raygun's crash reporting and real user monitoring features via the Model Context Protocol
 - [MCP System Monitor](https://github.com/seekrays/mcp-monitor) - A system monitoring tool that exposes system metrics via the Model Context Protocol (MCP). This tool allows LLMs to retrieve real-time system information through an MCP-compatible interface.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Local recorder with MCP tools for inspecting agent traces, replaying tool calls, and comparing runs; replay and comparison can make live external calls.
