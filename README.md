@@ -709,6 +709,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Environment and Nature
 - [Ambee MCP](https://github.com/ambeelabs/ambee-mcp) - Retrieves current and forecast air quality, pollen, and weather data through the Ambee API; requires an API key.
 - [BirdNET-Go MCP](https://github.com/zax0rz/birdnet-go-mcp) - Provides read-only access to BirdNET-Go detections, species summaries, observatory health, and recorded audio clips.
+- [GBIF Biodiversity MCP](https://github.com/cyanheads/gbif-biodiversity-mcp-server) - Searches GBIF taxonomy, species occurrences, datasets, and publishers through read-only MCP tools.
 
 ### File Systems
 
