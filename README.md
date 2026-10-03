@@ -413,6 +413,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Gmail Headless](https://github.com/baryhuang/mcp-headless-gmail) - A headless Gmail server enabling remote email sending and retrieval via the Model Context Protocol (MCP)
 - [Google Calendar](https://github.com/nspady/google-calendar-mcp) - MCP integration for Google Calendar to manage events.
 - [MCP WeComBot Server](https://github.com/gotoolkits/mcp-wecombot-server.git) - Sends various message types (text, markdown, image, news, template cards, files) to WeChat Work group robots
+- [ntfy-me MCP](https://github.com/gitmotion/ntfy-me-mcp) - Sends notifications and fetches cached topic messages from ntfy.sh or self-hosted ntfy servers, with optional token authentication.
 - [Pushover](https://github.com/ashiknesin/pushover-mcp) - A MCP implementation for sending notifications via Pushover
 - [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, and offers a notary, small-model inference and public data on a free daily allowance.
 - [Telegram](https://github.com/chigwell/telegram-mcp) - A Python-based server enabling interaction with Telegram chats via the Model Context Protocol
@@ -565,6 +566,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Checks JVM dependency versions, analyzes POM files, audits licenses and known vulnerabilities, and prepares dependency-upgrade recommendations.
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
+- [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
 - [Stripe](https://github.com/stripe/agent-toolkit) - Python and TypeScript library for integrating the Stripe API into agentic workflows
 - [UnifAI](https://github.com/unifai-network/unifai-mcp-server) - Simplifies multi-chain protocol (MCP) client development with TypeScript and Python SDKs
@@ -906,6 +908,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [AutoEQ MCP](https://github.com/verIdyia/autoeq-mcp) - Searches the AutoEQ headphone and IEM database for equalization settings.
 - [FableCut](https://github.com/ronak-create/FableCut) - Lets AI agents edit browser-based video projects through an editable timeline.
 - [ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp) - Provides local image-processing tools for MCP clients.
+- [Imagician](https://github.com/flowy11/imagician) - Edits local images with resizing, cropping, format conversion, compression, rotation, flipping, metadata inspection, and batch resizing.
 - [Klaket](https://github.com/huseyinstif/klaket) - Turns video files or URLs into timestamped, structured data for LLM workflows.
 - [Kokoro TTS MCP Server](https://github.com/mberg/kokoro-tts-mcp) - Generates MP3 speech using the Kokoro text-to-speech model.
 - [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) - MCP-assisted video editing for turning raw clips into a finished cut.
@@ -922,6 +925,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Elicitly](https://github.com/elicitly/elicitly) - Provides a local human-in-the-loop elicitation server for agent questions and approvals.
 - [MCP Hangar](https://github.com/mcp-hangar/mcp-hangar) - Applies policy to MCP server fleets and provides attributable audit and SIEM export.
 - [MCP Triage](https://github.com/neufagents/mcp-triage) - Scans MCP client configurations and offers cautious fixes, with dry-run enabled by default.
+- [Reloaderoo](https://github.com/cameroncooke/reloaderoo) - Proxies MCP tools, resources, and prompts while allowing a child server to restart without reconnecting the client; includes CLI inspection commands.
 
 ### Monitoring
 
@@ -974,9 +978,13 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ExcelMCP](https://github.com/haris-musa/excel-mcp-server) - Reads and writes Microsoft Excel workbooks through MCP.
 - [Microsoft 365 MCP Server](https://github.com/Softeria/ms-365-mcp-server) - Connects MCP clients to Microsoft 365 and Office services through Microsoft Graph, with a read-only mode.
 - [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp) - Connects AI clients to Gmail, Calendar, Drive, Docs, Sheets, and other Google Workspace services.
+- [Paperless-NGX MCP](https://github.com/baruchiro/paperless-mcp) - Searches and manages Paperless-NGX documents, tags, correspondents, document types, notes, and custom fields through its API.
+- [Scan MCP](https://github.com/jacksenechal/scan-mcp) - Discovers scanners, starts and monitors scan jobs, and produces multipage TIFF documents and per-job capture artifacts.
 
 ### Open Data
 
+- [Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp) - Queries Israeli Central Bureau of Statistics price indices, historical time series, index categories, and price-linkage calculations.
+- [KRS Poland MCP](https://github.com/pkolawa/krs-poland-mcp-server) - Retrieves current and historical entity records from Poland's National Court Register using a KRS number.
 - [MCP Brasil](https://github.com/Mcp-Brasil/mcp-brasil) - Connects to 70 Brazilian public-data sources covering government, finance, law, elections, health, education, and more.
 - [data.gouv.fr MCP Server](https://github.com/datagouv/datagouv-mcp) - Official server for searching and exploring datasets on France's national open-data platform.
 
@@ -1011,6 +1019,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [ArXiv MCP Server](https://github.com/andybrandt/mcp-simple-arxiv) - Tool to  work with arXiv, provide LLM with ability to search and read papers from there
 - [DeepResearch Assistant](https://github.com/reading-plus-ai/mcp-server-deep-research) - Generates comprehensive, well-cited research reports from a given research question
 - [Oorlogsbronnen AI](https://github.com/r-huijts/oorlogsbronnen-mcp) - MCP server for accessing Dutch World War II archives through the Oorlogsbronnen API. Provides structured access to historical records, photographs, and documents from 1940-1945 Netherlands.
+- [Open Library MCP](https://github.com/8enSmith/mcp-open-library) - Searches Open Library books and authors and retrieves book metadata, author details, and cover or author-photo URLs.
 - [SimplePubMed](https://github.com/andybrandt/mcp-simple-pubmed) - MCP server for searching and querying PubMed medical papers/research database
 - [World Bank data API](https://github.com/anshumax/world_bank_mcp_server) - An implementation of the Model Context Protocol for the World Bank open data API
 - [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Hosted MCP server for researching company registrations, executives, court records, and financial data.
