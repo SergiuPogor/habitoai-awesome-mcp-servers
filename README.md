@@ -931,6 +931,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MCP Hangar](https://github.com/mcp-hangar/mcp-hangar) - Applies policy to MCP server fleets and provides attributable audit and SIEM export.
 - [MCP Triage](https://github.com/neufagents/mcp-triage) - Scans MCP client configurations and offers cautious fixes, with dry-run enabled by default.
 - [Reloaderoo](https://github.com/cameroncooke/reloaderoo) - Proxies MCP tools, resources, and prompts while allowing a child server to restart without reconnecting the client; includes CLI inspection commands.
+- [ToolHive](https://github.com/stacklok/toolhive) - Runs MCP servers in isolated containers and can aggregate backend tools into virtual MCP servers, with local and Kubernetes runtimes.
 
 ### Monitoring
 
@@ -1206,6 +1207,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Apple Events MCP Server](https://github.com/FradSer/mcp-server-apple-events) - Controls macOS Calendar and Reminders through native Apple Events and EventKit APIs.
 - [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - Exposes Windows app and UI controls, file navigation, input simulation, and testing tools.
 - [Android MCP by CursorTouch](https://github.com/CursorTouch/Android-MCP) - Controls Android devices over ADB and accessibility APIs for app navigation, UI automation, and testing.
+- [Cua Driver](https://github.com/trycua/cua) - Provides MCP tools for controlling native desktop apps and browsers across macOS, Windows, and Linux.
 
 ### Travel and Transportation
 
