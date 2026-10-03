@@ -3,8 +3,10 @@
 A categorized directory of Model Context Protocol (MCP) servers for connecting AI applications to external tools and data sources. Browse the [official MCP Registry](https://registry.modelcontextprotocol.io/) for published server manifests.
 
 ## Table of Contents
+- [Accessibility](#accessibility)
 - [AI Services](#ai-services)
 - [Art and Culture](#art-and-culture)
+- [Bioinformatics](#bioinformatics)
 - [Browser Automation](#browser-automation)
 - [Business Applications](#business-applications)
 - [CAD and Design](#cad-and-design)
@@ -21,6 +23,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Diagramming and Visualization](#diagramming-and-visualization)
 - [E-Commerce](#e-commerce)
 - [Education](#education)
+- [Embedded Systems](#embedded-systems)
+- [Environment and Nature](#environment-and-nature)
 - [File Systems](#file-systems)
 - [Finance](#finance)
 - [Gaming](#gaming)
@@ -54,6 +58,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 
 <!-- MCP_LIST_START -->
+
+### Accessibility
+- [a11y-toolkit](https://github.com/kinti/a11y-toolkit) - Audits web accessibility, checks color contrast and keyboard behavior, and generates WCAG evidence reports.
 
 ### AI Services
 
@@ -261,6 +268,12 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Aseprite MCP](https://github.com/diivi/aseprite-mcp) - Controls Aseprite for pixel art and sprite animation through a broad set of tools.
 - [gen-image MCP](https://github.com/yuluo688/gen-image-mcp) - Generates and edits project images through a user-selected OpenAI-compatible or Gemini endpoint.
 
+### Bioinformatics
+- [1000 Genomes MCP](https://github.com/dnaerys/onekgpd-mcp) - Queries 1000 Genomes variants, samples, and genotypes with coordinate, annotation, and population filters.
+- [BioMCP](https://github.com/genomoncology/biomcp) - Searches biomedical literature, genes, variants, drugs, and clinical trials through a shared CLI and MCP interface.
+- [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - Analyzes spatial transcriptomics datasets with preprocessing, cell annotation, deconvolution, spatial statistics, and visualization tools.
+- [UniProt MCP](https://github.com/smaniches/uniprot-mcp) - Queries protein entries, sequences, variants, and disease associations, with response provenance and offline replay support.
+
 ### Browser Automation
 
 - [Browserbase MCP Server](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
@@ -407,7 +420,12 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Data Science Tools
 
+- [GrowthBook MCP](https://github.com/growthbook/growthbook-mcp) - Provides authenticated GrowthBook API reads and writes plus workflow guides for feature flags and experiments.
+- [Kaggle MCP](https://github.com/arrismo/kaggle-mcp) - Searches and downloads Kaggle datasets and provides exploratory data analysis prompts; requires Kaggle credentials.
+- [MathMethods MCP](https://github.com/agmonetti/mathmethods-mcp) - Runs numerical root finding, integration, differential equations, Monte Carlo calculations, and dynamical-system analysis.
+- [Optuna MCP](https://github.com/optuna/optuna-mcp) - Creates optimization studies, manages trials and samplers, and retrieves hyperparameter search results.
 - [Ramp](https://github.com/ramp-public/ramp-mcp) - Retrieves and analyzes Ramp data via API, using an ETL pipeline and in-memory database for LLM processing
+- [Stella MCP](https://github.com/bradleylab/stella-mcp) - Creates, inspects, validates, modifies, and saves Stella system dynamics models in XMILE format.
 - [Tinybird MCP](https://github.com/tinybirdco/mcp-tinybird) - Interacts with Tinybird workspaces via MCP, querying data sources, accessing API endpoints, and pushing data files
 - [Data Explorer Assistant](https://github.com/reading-plus-ai/mcp-server-data-exploration) - Generates actionable insights from complex datasets through interactive exploration
 - [Dataset Viewer](https://github.com/privetin/dataset-viewer) - MCP server for interacting with Hugging Face dataset viewer API, providing dataset browsing, filtering, and statistics capabilities
@@ -424,6 +442,8 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Fermat MCP](https://github.com/abhiphile/fermat-mcp) - Provides symbolic and numerical math computation and plotting tools.
 - [OraClaw](https://github.com/Whatsonyourmind/oraclaw) - Offers deterministic optimization, simulation, forecasting, and risk-analysis tools.
 - [URDB MCP](https://github.com/GetMystAdmin/urdb-mcp) - Provides electronics, hardware, and firmware calculators through MCP.
+- [Vizro MCP](https://github.com/mckinsey/vizro/tree/main/vizro-mcp) - Plans data charts and dashboards, analyzes input data, and validates Vizro chart code and dashboard configurations.
+- [Zaturn](https://github.com/kdqed/zaturn) - Connects to SQL databases and local CSV or Parquet files for queries, data analysis, and visualizations.
 
 ### Data Streaming
 
@@ -636,7 +656,17 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 ### Education
 
 - [Brightspace MCP Server](https://github.com/RohanMuppa/brightspace-mcp-server) - Retrieves Brightspace courses, deadlines, announcements, assignments, and grades.
+- [Canvas LMS MCP](https://github.com/admin978/canvas-mcp) - Reads Canvas courses, assignments, grades, announcements, modules, planner items, and course pages using a personal access token.
+- [Moodle MCP](https://github.com/csmediapro/moodle-mcp-server) - Reads Moodle courses, enrollments, assignments, categories, and site metadata through Moodle Web Services.
 - [SCORM MCP Server](https://github.com/giacomomaria81/scorm-mcp-server) - Builds SCORM 1.2 or 2004 packages from HTML course content and exports.
+
+### Embedded Systems
+- [OPC UA MCP](https://github.com/kukapay/opcua-mcp) - Browses OPC UA nodes and reads or writes individual and multiple node values in connected industrial systems.
+- [Serial MCP](https://github.com/adancurusul/serial-mcp-server) - Communicates with serial and UART devices and plans or runs repeatable command workflows with a JSON macro language.
+
+### Environment and Nature
+- [Ambee MCP](https://github.com/ambeelabs/ambee-mcp) - Retrieves current and forecast air quality, pollen, and weather data through the Ambee API; requires an API key.
+- [BirdNET-Go MCP](https://github.com/zax0rz/birdnet-go-mcp) - Provides read-only access to BirdNET-Go detections, species summaries, observatory health, and recorded audio clips.
 
 ### File Systems
 
@@ -727,7 +757,9 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 ### Healthcare
 
+- [Apple Health MCP](https://github.com/the-momentum/apple-health-mcp-server) - Imports and queries exported Apple Health records using DuckDB, ClickHouse, or Elasticsearch.
 - [CareClinic Health Tracker](https://github.com/tandemloop/careclinic_mcp) - Remote OAuth MCP server for tracking symptoms, mood, medications, and wellness check-ins.
+- [FHIR MCP](https://github.com/the-momentum/fhir-mcp-server) - Queries FHIR healthcare resources, including patients, conditions, encounters, and observations, through a configured FHIR server.
 - [WSO2 FHIR MCP Server](https://github.com/wso2/fhir-mcp-server) - Connects to FHIR APIs to discover capabilities, search and read resources, and create, update, or delete them with OAuth2 authorization.
 - [AWS HealthOmics MCP Server](https://github.com/awslabs/mcp/tree/main/src/aws-healthomics-mcp-server) - Supports genomic workflow management, execution, and analysis through AWS HealthOmics.
 
