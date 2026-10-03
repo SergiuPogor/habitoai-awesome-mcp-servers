@@ -375,6 +375,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Discord](https://github.com/v-3/discordmcp) - Discord MCP Server for Claude Integration
 - [Discord](https://github.com/SaseQ/discord-mcp) - A Model Context Protocol (MCP) server for the Discord integration with MCP-compatible applications like Claude Desktop.
 - [Email](https://github.com/Shy2593666979/mcp-server-email) - Sends and receives emails, manages attachments, and searches files via pattern matching
+- [Ethora](https://github.com/dappros/ethora-mcp-server) - MCP server for the open-source Ethora chat and messaging platform: create apps, rooms and users, send and search messages, deploy AI agents and RAG chatbots, and generate a website chat widget.
 - [GitHub Discussions](https://github.com/orgs/modelcontextprotocol/discussions) - Facilitates community discussion and collaboration on GitHub repositories
 - [Gmail](https://github.com/GongRzhe/Gmail-MCP-Server) - A Model Context Protocol (MCP) server for Gmail integration in Claude Desktop with auto authentication support. This server enables AI assistants to manage Gmail through natural language interactions.
 - [Gmail Headless](https://github.com/baryhuang/mcp-headless-gmail) - A headless Gmail server enabling remote email sending and retrieval via the Model Context Protocol (MCP)
@@ -512,6 +513,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Agent QA](https://github.com/vostride/agent-qa) - Source-available MCP server for authoring and inspecting natural-language web and mobile tests.
 - [APIMatic MCP](https://github.com/apimatic/apimatic-validator-mcp) - APIMatic Validator MCP Server for validating OpenAPI specs via APIMatic's API with MCP
 - [Comet Opik MCP](https://github.com/comet-ml/opik-mcp) - Model Context Protocol (MCP) implementation for Opik enabling seamless IDE integration and unified access to prompts, projects, traces, and metrics.
+- [Gemmein MCP](https://github.com/gemmeinhq/gemmein-release/tree/main/mcp) - Provides Gemmein builder guides, SDK references, rule and error explanations, and live app integration checks; checks with development credentials can create temporary test data.
 - [GLM MCP](https://github.com/djerok/glm-mcp) - Run GLM (Zhipu/Z.ai) as a real sub-agent inside Claude Code, GitHub Copilot, or Codex with its own read/write/edit/run agent loop, peak-aware routing, and diff/dry-run/git-revert oversight. ~10x cheaper than Opus.
 - [JetBrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 - [Magic Component Platform](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
@@ -671,6 +673,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [GOAT](https://github.com/goat-sdk/goat/tree/main/typescript/examples/by-framework/model-context-protocol) - The leading agentic finance toolkit for AI agents
 - [Investor Agent](https://github.com/ferdousbhai/investor-agent) - A Model Context Protocol server for building an investor agent
 - [Invoice](https://github.com/theluckystrike/mcp-invoice) - Creates real A4 PDF invoices from chat: clients, sequential numbering with numbers never reused, discounts, per-rate VAT lines and totals in integer minor units, plus payment and overdue tracking. Data stays in local JSON files.
+- [Invompt](https://github.com/Invompt/invompt-mcp) - Create and revise invoices, quotes, and estimates through hosted OAuth, with guest access for users without an account; sending invoices by email requires a registered account.
 - [Jupiter MCP](https://github.com/kukapay/jupiter-mcp) - An MCP server for executing token swaps on the Solana blockchain using Jupiter's new Ultra API.
 - [KukaPay Uniswap Trader](https://github.com/kukapay/uniswap-trader-mcp) - An MCP server for AI agents to automate token swaps on Uniswap DEX across multiple blockchains.
 - [LedgerAI](https://github.com/minhyeoky/mcp-server-ledger) - A Model Context Protocol server for interacting with Ledger CLI, a powerful double-entry accounting system. This server enables Large Language Models to query and analyze financial data through a standardized interface, making it easy for AI assistants to help with financial reporting, budget analysis, and accounting tasks.
