@@ -80,7 +80,6 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DevHub](https://github.com/devhub/devhub-cms-mcp) - DevHub CMS LLM integration through the Model Context Protocol
 - [E2B](https://github.com/e2b-dev/mcp-server) - Giving Claude ability to run code with E2B via MCP (Model Context Protocol)
 - [Ejentum](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
-- [EduBase](https://github.com/EduBase/MCP) - The EduBase MCP server enables Claude and other LLMs to interact with EduBase's comprehensive e-learning platform through the Model Context Protocol (MCP).
 - [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 - [ForeverVM](https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server) - Securely run AI-generated code in stateful sandboxes that run forever.
 - [gotoHuman](https://github.com/gotohuman/gotohuman-mcp-server) - Facilitates human review of AI-generated content and automated actions via asynchronous webhooks
@@ -695,6 +694,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Brightspace MCP Server](https://github.com/RohanMuppa/brightspace-mcp-server) - Retrieves Brightspace courses, deadlines, announcements, assignments, and grades.
 - [Canvas LMS MCP](https://github.com/admin978/canvas-mcp) - Reads Canvas courses, assignments, grades, announcements, modules, planner items, and course pages using a personal access token.
 - [Connectry Architect Cert MCP](https://github.com/Connectry-io/connectrylab-architect-cert-mcp) - Provides software architecture study questions, practice exams, concept lessons, and persistent learning-progress tracking.
+- [EduBase](https://github.com/EduBase/MCP) - The EduBase MCP server enables Claude and other LLMs to interact with EduBase's comprehensive e-learning platform through the Model Context Protocol (MCP).
 - [Moodle MCP](https://github.com/csmediapro/moodle-mcp-server) - Reads Moodle courses, enrollments, assignments, categories, and site metadata through Moodle Web Services.
 - [Pronunciation MCP](https://github.com/JuhongPark/mcp-server-pronunciation) - Records local voice input and provides English pronunciation, fluency, and sentence-practice feedback using locally run speech models.
 - [SCORM MCP Server](https://github.com/giacomomaria81/scorm-mcp-server) - Builds SCORM 1.2 or 2004 packages from HTML course content and exports.
