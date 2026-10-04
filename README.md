@@ -11,6 +11,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Browser Automation](#browser-automation)
 - [Business Applications](#business-applications)
 - [CAD and Design](#cad-and-design)
+- [Chemistry](#chemistry)
 - [Cloud Platforms](#cloud-platforms)
 - [Cloud Storage](#cloud-storage)
 - [Command Line](#command-line)
@@ -325,6 +326,10 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Design Token Bridge MCP](https://github.com/kenneives/design-token-bridge-mcp) - Imports and exports design tokens between supported design tools and formats.
 - [Figwright](https://github.com/awdr74100/figwright) - Provides two-way Figma integration through an MCP server and companion plugin.
 - [Mockit MCP](https://github.com/karyaboyraz/mockit-mcp) - Creates iOS interface mockups from prompts using a Playwright-based renderer.
+
+### Chemistry
+
+- [PubChem MCP Server](https://github.com/cyanheads/pubchem-mcp-server) - Searches compounds and retrieves chemical properties, safety data, bioactivity, interactions, and 3D structures from PubChem.
 
 ### Cloud Platforms
 
