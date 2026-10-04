@@ -999,6 +999,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MCP Brasil](https://github.com/Mcp-Brasil/mcp-brasil) - Connects to 70 Brazilian public-data sources covering government, finance, law, elections, health, education, and more.
 - [data.gouv.fr MCP Server](https://github.com/datagouv/datagouv-mcp) - Official server for searching and exploring datasets on France's national open-data platform.
 
+- [CKAN MCP Server](https://github.com/ondata/ckan-mcp-server) - Searches CKAN portals for datasets and metadata, explores organizations and tags, and queries DataStore tables.
 - [Colombian Legislation MCP](https://github.com/Angelthebestone/Normativa-colombiana-MCP) - Searches Colombian legislation and case law across official sources.
 - [Luxembourg MCP](https://github.com/amirdaraee/luxembourg-mcp) - Provides MCP access to Luxembourg public datasets from government data systems.
 
