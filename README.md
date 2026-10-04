@@ -302,6 +302,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 
 - [Safari MCP](https://github.com/achiya-automation/safari-mcp) - Automates native Safari on macOS through browser-control tools.
 - [SnapDiff MCP](https://github.com/corralimited/snapdiff-mcp) - Visually compares web pages and reports highlighted differences.
+- [UI-TARS Browser MCP Server](https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser) - Automates browsers with Puppeteer, using accessibility data for navigation and interaction with optional screenshot-based vision tools.
 
 ### Business Applications
 
