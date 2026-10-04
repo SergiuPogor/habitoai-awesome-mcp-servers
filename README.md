@@ -956,6 +956,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Sentry (hosted MCP)](https://github.com/getsentry/toolkit) - Sentry's remote MCP service for investigating issues, errors, traces, and performance data in coding workflows. Endpoint: `https://mcp.sentry.dev`.
 - [Google Cloud Observability MCP Server](https://github.com/googleapis/gcloud-mcp/tree/main/packages/observability-mcp) - Searches Google Cloud logs, metrics, traces, and error reports.
 - [SigNoz MCP Server](https://github.com/SigNoz/signoz-mcp-server) - Queries and investigates traces, logs, and metrics from SigNoz.
+- [VictoriaMetrics MCP Server](https://github.com/VictoriaMetrics/mcp-victoriametrics) - Queries VictoriaMetrics metrics and alerts, inspects rules and query behavior, and searches embedded documentation.
 - [AWS CloudWatch MCP Server](https://github.com/awslabs/mcp/tree/main/src/cloudwatch-mcp-server) - Queries CloudWatch logs, metrics, and alarms for monitoring and troubleshooting.
 
 - [.NET Diagnostics MCP](https://github.com/aayushmdesai/mcp-dotnet-diagnostics) - Exposes .NET runtime health and diagnostic information to AI assistants.
