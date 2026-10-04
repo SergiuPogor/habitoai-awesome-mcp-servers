@@ -1225,6 +1225,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [OneBusAway MCP Server](https://github.com/cyanheads/onebusaway-mcp-server) - Queries OneBusAway transit APIs for stops, routes, real-time arrivals, vehicle positions, schedules, and service alerts.
 - [StayingAPI](https://github.com/stayingapi/hotel-mcp) - Hosted MCP server for hotel and short-rental data across Airbnb, Booking.com, Vrbo and Google Hotels. Remote, OAuth 2.1; seven read-only tools for search, availability, pricing and reviews.
 - [Travel Planner](https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server) - Provides travel planning functionalities like location search, route calculation, and time zone retrieval via Google Maps APIs
+- [Transitland MCP Server](https://github.com/cyanheads/transitland-mcp-server) - Searches Transitland’s global transit registry for operators, GTFS, GTFS-Realtime and GBFS feeds with license terms, routes, stops, and departures.
 - [Pocket Drives](https://github.com/RevList/pocket-drives-mcp) - Search peer-to-peer luxury, exotic, and electric-vehicle rentals; booking finishes in the iOS app.
 - [TableJourney](https://github.com/lewismvaughan/tablejourney-mcp) - Read-only MCP server for food travel data, verified restaurants and markets, food festivals, and trip planning across 214 cities.
 - [12306 MCP](https://github.com/Joooook/12306-mcp) - Searches and filters China Railway 12306 train ticket information, including transfer routes.
