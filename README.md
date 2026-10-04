@@ -946,6 +946,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Inspektor Gadget MCP](https://github.com/inspektor-gadget/ig-mcp-server) - Exposes eBPF-powered diagnostic tools for inspecting containers and Kubernetes workloads.
 - [Logfire Telemetry Analyzer](https://github.com/pydantic/logfire-mcp) - The Logfire MCP Server is here! :tada:
 - [openITCOCKPIT MCP](https://github.com/openITCOCKPIT/openITCOCKPIT-MCP-Server) - Investigates monitoring problems, service health, and recent changes, with optional tools for configuration and acknowledgements.
+- [OpenTelemetry MCP Server](https://github.com/traceloop/opentelemetry-mcp-server) - Searches and analyzes traces and spans from Jaeger, Tempo, and Traceloop backends, with filters for LLM models, errors, and token usage.
 - [PostHog MCP](https://github.com/PostHog/posthog/tree/master/services/mcp) - Query analytics and product data, manage feature flags and experiments, and investigate errors through PostHog.
 - [Prometheus Alertmanager MCP](https://github.com/ntk148v/alertmanager-mcp-server) - Queries Alertmanager status, alerts, receivers, and alert groups, and creates, updates, or deletes alert silences.
 - [Raygun MCP Server](https://github.com/MindscapeHQ/mcp-server-raygun) - Provides API access to Raygun's crash reporting and real user monitoring features via the Model Context Protocol
