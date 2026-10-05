@@ -1122,6 +1122,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [DNStwist MCP Server](https://github.com/BurtTheCoder/mcp-dnstwist) - MCP server for dnstwist, a powerful DNS fuzzing tool that helps detect typosquatting, phishing, and corporate espionage.
 - [DomScan](https://github.com/estevecastells/domscan-mcp) - MCP server for domain intelligence: availability, DNS, WHOIS/RDAP, SSL, subdomains, valuation, email security and typosquatting/brand protection.
 - [Maigret MCP Server](https://github.com/BurtTheCoder/mcp-maigret) - MCP server for maigret, a powerful OSINT tool that collects user account information from various public sources.
+- [MCP Audit](https://github.com/P4ST4S/mcp-audit) - Transparent stdio and HTTP proxy for MCP traffic that records signed audit logs, redacts payloads, and applies configurable tool policies and rate limits.
 - [MCP Guardian](https://github.com/eqtylab/mcp-guardian) - Manage / Proxy / Secure your MCP Servers
 - [MCP Security Auditor](https://github.com/qianniuspace/mcp-security-audit) - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
 - [Okta](https://github.com/kapilduraphe/okta-mcp-server) - Manages Okta users and groups via a Claude-integrated server
