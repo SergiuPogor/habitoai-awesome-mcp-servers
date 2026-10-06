@@ -573,6 +573,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [Maven Tools MCP](https://github.com/arvindand/maven-tools-mcp) - Checks JVM dependency versions, analyzes POM files, audits licenses and known vulnerabilities, and prepares dependency-upgrade recommendations.
 - [MCP Files](https://github.com/flesler/mcp-files) - Searches source symbols and makes targeted code edits with symbol imports, text insertion, and search-and-replace tools.
 - [OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer) - Exposes OpenAPI specifications as MCP resource templates for inspecting paths, operations, and schema components on demand.
+- [OpenZeppelin Contracts Wizard MCP](https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp) - Generates OpenZeppelin smart-contract source for Solidity, Cairo, Stellar, Stylus, TRON, confidential contracts, and Uniswap Hooks; MCP Apps clients can render an interactive wizard.
 - [Package Registry MCP](https://github.com/Artmann/package-registry-mcp) - Searches package registries, retrieves package versions and metadata, and queries GitHub Security Advisories across multiple language ecosystems.
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - Searches technical documentation and retrieves linked pages as Markdown through the Ref API; requires a Ref API key.
 - [Semgrep](https://github.com/semgrep/mcp) - [beta] Use Semgrep in LLMs using MCP framework
