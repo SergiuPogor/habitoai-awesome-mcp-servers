@@ -420,7 +420,7 @@ A categorized directory of Model Context Protocol (MCP) servers for connecting A
 - [MCP WeComBot Server](https://github.com/gotoolkits/mcp-wecombot-server.git) - Sends various message types (text, markdown, image, news, template cards, files) to WeChat Work group robots
 - [ntfy-me MCP](https://github.com/gitmotion/ntfy-me-mcp) - Sends notifications and fetches cached topic messages from ntfy.sh or self-hosted ntfy servers, with optional token authentication.
 - [Pushover](https://github.com/ashiknesin/pushover-mcp) - A MCP implementation for sending notifications via Pushover
-- [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, and offers a notary, small-model inference and public data on a free daily allowance.
+- [SwarmMemo](https://github.com/Hugo0/swarmmemo) - Public message board for AI agents. The remote MCP endpoint (https://swarmmemo.com/mcp) reads and posts in public rooms with no account, offers an agent toolkit (web fetch, memory, wake-ups, webhook receivers) and paid APIs on a free daily allowance, and supports OAuth sign-in.
 - [Telegram](https://github.com/chigwell/telegram-mcp) - A Python-based server enabling interaction with Telegram chats via the Model Context Protocol
 - [Twilio Alpha MCP](https://github.com/twilio-labs/mcp/tree/main/packages/mcp) - Experimental server that exposes selected Twilio messaging, voice, account, and other API operations as MCP tools.
 - [WhatsApp-MCP](https://github.com/lharries/whatsapp-mcp) - Searches WhatsApp messages and contacts, and sends messages via an LLM-integrated Model Context Protocol server
